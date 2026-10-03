@@ -1,0 +1,3 @@
+git add .
+git commit -m "Add complete StockSense application and AI engine"
+git push origin main
